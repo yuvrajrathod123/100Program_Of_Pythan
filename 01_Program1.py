@@ -9,7 +9,8 @@ print("The sum of given two numbers:", sum)
 
 # Solution-2 --> with user input
 
-num1 = int(input("Enter first number:"))
-num2 = int(input("Enter secong number:"))
+# we can use int instant float 
+num1 = float(input("Enter first number:"))  
+num2 = float(input("Enter secong number:"))
 sum = num1 + num2
 print("The sum of given two numbers:", sum)
