@@ -1,6 +1,13 @@
-for i in range(0,n+1):
-    for j in range(len(str),n+1):
-        if str[i] == str[j]:
-            print("palindrome")
-        else:
-            print("not palindrome")
+num  = int(input("Enter a number"))
+# temp = num
+# rev =  0
+
+# while num > 0:
+#     dig = num % 10
+#     rev = rev*10+dig
+#     num = num // 10
+
+# if temp == rev:
+#     print("palindrome")
+# else:
+#     print("not palindrome")        
