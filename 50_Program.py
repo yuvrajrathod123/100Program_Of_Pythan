@@ -22,5 +22,8 @@ else:
 # my_str = my_str.casefold()
 
 # re_str = list(reversed(my_str))
+# for i in re_str:
+#     print(i,end=" ")
 
-# print(re_str)
+# print()
+# print(re_str,"\n")
